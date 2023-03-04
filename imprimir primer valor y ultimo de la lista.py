@@ -2,5 +2,5 @@
 # y ultimo valor de la lista.  
 
 lista = [ "red", "blue", "yellow", "black","white"]
-print(lista[0])
-print(lista[-1])
+print("el primer valor es: ", lista[0])
+print("el ultimo valor es: ", lista[-1])
